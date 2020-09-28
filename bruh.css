@@ -275,18 +275,11 @@ textarea,
 	order: 1
 }
 
-.typeWindows-1za-n7>.wordmark-2iDDfm:before {
+.typeWindows-1za-n7>.wordmark-2iDDfm {
 	content: "Maple";
 	color: rgba(255, 255, 255, 0.7);
 	font-size: 14px;
 	text-shadow: 0 0 3px #000
-}
-
-.typeWindows-1za-n7>.wordmark-2iDDfm:after {
-	content: "v6.0.1";
-	color: rgba(255, 255, 255, 0.3);
-	font-family: var(--code-font);
-	font-size: 10px
 }
 
 .typeWindows-1za-n7>.wordmark-2iDDfm>svg {
